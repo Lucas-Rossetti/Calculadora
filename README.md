@@ -14,3 +14,5 @@ Erro 3 - Um erro no redirecionamento. Não foi especificado a opção
 2. python3 calc.py --mul 2 63 # Retorna 126
 
 3. python3 calc.py -d 100 10 # Retorna 10
+
+4. Ajuda: python3 calc.py -h
